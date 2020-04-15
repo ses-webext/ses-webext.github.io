@@ -5,6 +5,10 @@
           {
             "version": "0.6.0.1",
             "update_link": "https://ses-webext.github.io/releases/suls_enhancement_suite-0.6.0.1-fx.xpi"
+          },
+          {
+            "version": "0.6.1.0",
+            "update_link": "https://ses-webext.github.io/releases/suls_enhancement_suite-0.6.1.0-fx.xpi"
           }
         ]
       }
