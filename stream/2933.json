@@ -1,0 +1,62 @@
+{
+  "14259": {
+    "HumanReadable": {
+      "LectureName": "Разширена работа с документи и оформление",
+      "Date": "2020-06-03",
+      "Time": "18:15:00"
+    },
+    "Id": 14259,
+    "url": "",
+    "key": "bydd-mv5u-6828-fzw5"
+  },
+  "14263": {
+    "HumanReadable": {
+      "LectureName": "Формули за напреднали",
+      "Date": "2020-06-10",
+      "Time": "18:15:00"
+    },
+    "Id": 14263,
+    "url": "",
+    "key": "bydd-mv5u-6828-fzw5"
+  },
+  "14264": {
+    "HumanReadable": {
+      "LectureName": "Диаграми и обекти",
+      "Date": "2020-06-17",
+      "Time": "18:15:00"
+    },
+    "Id": 14264,
+    "url": "_6S1esK7TNM",
+    "key": "bydd-mv5u-6828-fzw5"
+  },
+  "14265": {
+    "HumanReadable": {
+      "LectureName": "Обобщени (Pivot) таблици",
+      "Date": "2020-06-24",
+      "Time": "18:15:00"
+    },
+    "Id": 14265,
+    "url": "",
+    "key": "bydd-mv5u-6828-fzw5"
+  },
+  "14266": {
+    "HumanReadable": {
+      "LectureName": "Анализ на данни",
+      "Date": "2020-07-01",
+      "Time": "18:15:00"
+    },
+    "Id": 14266,
+    "url": "",
+    "key": "bydd-mv5u-6828-fzw5"
+  },
+  "14267": {
+    "HumanReadable": {
+      "LectureName": "Въведение в макроси и автоматизация",
+      "Date": "2020-07-08",
+      "Time": "18:15:00"
+    },
+    "Id": 14267,
+    "url": "",
+    "key": "bydd-mv5u-6828-fzw5"
+  }
+}
