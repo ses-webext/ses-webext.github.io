@@ -1,0 +1,212 @@
+{
+  "15105": {
+    "HumanReadable": {
+      "LectureName": "Unit Testing and Modules",
+      "Date": "2020-06-29",
+      "Time": "18:00:00"
+    },
+    "Id": 15105,
+    "url": "",
+    "key": ""
+  },
+  "15106": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Unit Testing and Modules",
+      "Date": "2020-06-30",
+      "Time": "14:00:00"
+    },
+    "Id": 15106,
+    "url": "KDOhMhNItHI",
+    "key": "dm89-f1fz-xgxp-s7gy-6qrp"
+  },
+  "15107": {
+    "HumanReadable": {
+      "LectureName": "REST Services and AJAX",
+      "Date": "2020-07-02",
+      "Time": "18:00:00"
+    },
+    "Id": 15107,
+    "url": "",
+    "key": ""
+  },
+  "15108": {
+    "HumanReadable": {
+      "LectureName": "Exercise: REST Services and AJAX",
+      "Date": "2020-07-03",
+      "Time": "14:00:00"
+    },
+    "Id": 15108,
+    "url": "Jc5sQYbBaCM",
+    "key": "m619-dxcb-58kw-hx7m-5m7j"
+  },
+  "15109": {
+    "HumanReadable": {
+      "LectureName": "Asynchronous Programming",
+      "Date": "2020-07-06",
+      "Time": "18:00:00"
+    },
+    "Id": 15109,
+    "url": "",
+    "key": ""
+  },
+  "15110": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Asynchronous Programming",
+      "Date": "2020-07-07",
+      "Time": "14:00:00"
+    },
+    "Id": 15110,
+    "url": "OYOFHcQIY58",
+    "key": "gzrt-2r7d-tu6j-pj6c-ez5q"
+  },
+  "15111": {
+    "HumanReadable": {
+      "LectureName": "Remote Databases",
+      "Date": "2020-07-09",
+      "Time": "18:00:00"
+    },
+    "Id": 15111,
+    "url": "",
+    "key": ""
+  },
+  "15112": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Remote Databases",
+      "Date": "2020-07-10",
+      "Time": "14:00:00"
+    },
+    "Id": 15112,
+    "url": "6ULmpZ2tJkY",
+    "key": "3h5s-7a30-07j4-rxgw-6q31"
+  },
+  "15113": {
+    "HumanReadable": {
+      "LectureName": "Templating",
+      "Date": "2020-07-13",
+      "Time": "18:00:00"
+    },
+    "Id": 15113,
+    "url": "",
+    "key": ""
+  },
+  "15114": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Templating",
+      "Date": "2020-07-14",
+      "Time": "14:00:00"
+    },
+    "Id": 15114,
+    "url": "yFY4KcoXXjk",
+    "key": "qbhd-9tjj-2ets-5zab-av5v"
+  },
+  "15115": {
+    "HumanReadable": {
+      "LectureName": "Routing",
+      "Date": "2020-07-16",
+      "Time": "18:00:00"
+    },
+    "Id": 15115,
+    "url": "",
+    "key": ""
+  },
+  "15116": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Routing",
+      "Date": "2020-07-17",
+      "Time": "14:00:00"
+    },
+    "Id": 15116,
+    "url": "I65dg9cpaTY",
+    "key": "9uug-yu9h-v9u2-2egh-arwc"
+  },
+  "15117": {
+    "HumanReadable": {
+      "LectureName": "Workshop: Single Page Application",
+      "Date": "2020-07-20",
+      "Time": "18:00:00"
+    },
+    "Id": 15117,
+    "url": "",
+    "key": ""
+  },
+  "15118": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Workshop: Single Page Application",
+      "Date": "2020-07-21",
+      "Time": "14:00:00"
+    },
+    "Id": 15118,
+    "url": "au6X3K9HKUs",
+    "key": "mjmw-ukhz-07uv-x7fk-fdza"
+  },
+  "15119": {
+    "HumanReadable": {
+      "LectureName": "Design Patterns and Best Practices",
+      "Date": "2020-07-23",
+      "Time": "18:00:00"
+    },
+    "Id": 15119,
+    "url": "",
+    "key": ""
+  },
+  "15120": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Design Patterns and Best Practices",
+      "Date": "2020-07-24",
+      "Time": "14:00:00"
+    },
+    "Id": 15120,
+    "url": "mnSoH0xLjG8",
+    "key": "cxgb-3q9u-br0x-1cwk-2rqp"
+  },
+  "15121": {
+    "HumanReadable": {
+      "LectureName": "Workshop: Custom Components",
+      "Date": "2020-07-27",
+      "Time": "18:00:00"
+    },
+    "Id": 15121,
+    "url": "",
+    "key": ""
+  },
+  "15122": {
+    "HumanReadable": {
+      "LectureName": "Workshop: Custom Components",
+      "Date": "2020-07-28",
+      "Time": "14:00:00"
+    },
+    "Id": 15122,
+    "url": "rRnPO4k27yQ",
+    "key": "0yj6-89da-9dcu-73t7-5dqm"
+  },
+  "15123": {
+    "HumanReadable": {
+      "LectureName": "Project Architecture",
+      "Date": "2020-07-30",
+      "Time": "18:00:00"
+    },
+    "Id": 15123,
+    "url": "",
+    "key": ""
+  },
+  "15124": {
+    "HumanReadable": {
+      "LectureName": "Exam Preparation",
+      "Date": "2020-08-03",
+      "Time": "14:00:00"
+    },
+    "Id": 15124,
+    "url": "",
+    "key": ""
+  },
+  "15125": {
+    "HumanReadable": {
+      "LectureName": "Exam Preparation",
+      "Date": "2020-08-04",
+      "Time": "18:00:00"
+    },
+    "Id": 15125,
+    "url": "",
+    "key": ""
+  }
+}
