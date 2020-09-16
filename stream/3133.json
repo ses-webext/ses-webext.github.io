@@ -1,0 +1,232 @@
+{
+  "15583": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Basic Syntax, Conditional Statements and Loops",
+      "Date": "2020-09-18",
+      "Time": "10:00:00"
+    },
+    "Id": 15583,
+    "url": "",
+    "key": ""
+  },
+  "15584": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Data Types and Variables",
+      "Date": "2020-09-25",
+      "Time": "10:00:00"
+    },
+    "Id": 15584,
+    "url": "",
+    "key": ""
+  },
+  "15585": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Arrays",
+      "Date": "2020-10-02",
+      "Time": "10:00:00"
+    },
+    "Id": 15585,
+    "url": "",
+    "key": ""
+  },
+  "15586": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Functions",
+      "Date": "2020-10-09",
+      "Time": "10:00:00"
+    },
+    "Id": 15586,
+    "url": "",
+    "key": ""
+  },
+  "15587": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Arrays Advanced",
+      "Date": "2020-10-16",
+      "Time": "10:00:00"
+    },
+    "Id": 15587,
+    "url": "",
+    "key": ""
+  },
+  "15588": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Objects and Classes",
+      "Date": "2020-10-23",
+      "Time": "10:00:00"
+    },
+    "Id": 15588,
+    "url": "",
+    "key": ""
+  },
+  "15589": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Exam Preparation",
+      "Date": "2020-10-30",
+      "Time": "10:00:00"
+    },
+    "Id": 15589,
+    "url": "",
+    "key": ""
+  },
+  "15590": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Associative Arrays",
+      "Date": "2020-11-13",
+      "Time": "10:00:00"
+    },
+    "Id": 15590,
+    "url": "",
+    "key": ""
+  },
+  "15591": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Text Processing ",
+      "Date": "2020-11-20",
+      "Time": "10:00:00"
+    },
+    "Id": 15591,
+    "url": "",
+    "key": ""
+  },
+  "15592": {
+    "HumanReadable": {
+      "LectureName": "Exercise: Regular Expressions",
+      "Date": "2020-11-27",
+      "Time": "10:00:00"
+    },
+    "Id": 15592,
+    "url": "",
+    "key": ""
+  },
+  "15593": {
+    "HumanReadable": {
+      "LectureName": "Exam Preparation",
+      "Date": "2020-12-04",
+      "Time": "10:00:00"
+    },
+    "Id": 15593,
+    "url": "",
+    "key": ""
+  },
+  "15684": {
+    "HumanReadable": {
+      "LectureName": "Basic Syntax, Conditional Statements and Loops",
+      "Date": "2020-09-16",
+      "Time": "18:15:00"
+    },
+    "Id": 15684,
+    "url": "ZWqgwxmPAaE",
+    "key": "4xyu-w1kz-zu4r-wvyk-4e75"
+  },
+  "15685": {
+    "HumanReadable": {
+      "LectureName": "Data Types and Variables",
+      "Date": "2020-09-23",
+      "Time": "18:30:00"
+    },
+    "Id": 15685,
+    "url": "ZA9T24ByWa4",
+    "key": "t0rj-ujs7-a1my-y3z5-ay0p"
+  },
+  "15686": {
+    "HumanReadable": {
+      "LectureName": "Arrays",
+      "Date": "2020-09-30",
+      "Time": "18:30:00"
+    },
+    "Id": 15686,
+    "url": "0akoVC8kL4k",
+    "key": "8qfd-6rep-k01k-2de9-am0t"
+  },
+  "15687": {
+    "HumanReadable": {
+      "LectureName": "Functions",
+      "Date": "2020-10-07",
+      "Time": "18:30:00"
+    },
+    "Id": 15687,
+    "url": "LFlCSjhGV80",
+    "key": "wwy0-pa6u-8d9j-14dj-27mm"
+  },
+  "15688": {
+    "HumanReadable": {
+      "LectureName": "Arrays Advanced",
+      "Date": "2020-10-14",
+      "Time": "18:30:00"
+    },
+    "Id": 15688,
+    "url": "2qMvGzaBHkU",
+    "key": "hhsq-wqt4-y4s6-862r-97h7"
+  },
+  "15689": {
+    "HumanReadable": {
+      "LectureName": "Objects and Classes",
+      "Date": "2020-10-21",
+      "Time": "18:30:00"
+    },
+    "Id": 15689,
+    "url": "-oKnh3XAQok",
+    "key": "7gv0-090k-50yw-2bke-43ww"
+  },
+  "15690": {
+    "HumanReadable": {
+      "LectureName": "Exam Preparation",
+      "Date": "2020-10-28",
+      "Time": "18:30:00"
+    },
+    "Id": 15690,
+    "url": "Tdm2v_vcU9o",
+    "key": "x860-s38a-ed84-yyrc-4mga"
+  },
+  "15691": {
+    "HumanReadable": {
+      "LectureName": "Associative Arrays",
+      "Date": "2020-11-11",
+      "Time": "18:30:00"
+    },
+    "Id": 15691,
+    "url": "JccKzm6M34U",
+    "key": "cxbm-skbg-bu3v-brkp-46fu"
+  },
+  "15692": {
+    "HumanReadable": {
+      "LectureName": "Text Processing ",
+      "Date": "2020-11-18",
+      "Time": "18:30:00"
+    },
+    "Id": 15692,
+    "url": "BQlBKJIOr24",
+    "key": "my8p-av9e-bfps-brt1-02s5"
+  },
+  "15693": {
+    "HumanReadable": {
+      "LectureName": "Regular Expressions",
+      "Date": "2020-11-25",
+      "Time": "18:30:00"
+    },
+    "Id": 15693,
+    "url": "78LqhvF350o",
+    "key": "cey0-vhx7-ufw3-dbvq-by8z"
+  },
+  "15694": {
+    "HumanReadable": {
+      "LectureName": "Exam Preparation",
+      "Date": "2020-12-02",
+      "Time": "18:30:00"
+    },
+    "Id": 15694,
+    "url": "K8cVxZ0rta0",
+    "key": "dqjb-4mcp-03x8-2ac1-2h9q"
+  },
+  "15695": {
+    "HumanReadable": {
+      "LectureName": "Basic Web Project",
+      "Date": "2020-12-09",
+      "Time": "18:30:00"
+    },
+    "Id": 15695,
+    "url": "Iv1Gq_nhW8A",
+    "key": "mda1-cxby-d1ry-kq2u-0tu1"
+  }
+}
