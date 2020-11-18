@@ -1,0 +1,62 @@
+{
+  "15564": {
+    "HumanReadable": {
+      "LectureName": "Формули за напреднали",
+      "Date": "2020-12-10",
+      "Time": "18:15:00"
+    },
+    "Id": 15564,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  },
+  "15565": {
+    "HumanReadable": {
+      "LectureName": "Разширена работа с документи и оформление",
+      "Date": "2020-12-03",
+      "Time": "18:15:00"
+    },
+    "Id": 15565,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  },
+  "15566": {
+    "HumanReadable": {
+      "LectureName": "Диаграми и обекти",
+      "Date": "2020-12-17",
+      "Time": "18:15:00"
+    },
+    "Id": 15566,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  },
+  "15569": {
+    "HumanReadable": {
+      "LectureName": "Въведение в макроси и автоматизация",
+      "Date": "2021-01-21",
+      "Time": "18:15:00"
+    },
+    "Id": 15569,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  },
+  "15570": {
+    "HumanReadable": {
+      "LectureName": "Обобщени (Pivot) таблици",
+      "Date": "2021-01-07",
+      "Time": "18:15:00"
+    },
+    "Id": 15570,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  },
+  "15571": {
+    "HumanReadable": {
+      "LectureName": "Анализ на данни",
+      "Date": "2021-01-14",
+      "Time": "18:15:00"
+    },
+    "Id": 15571,
+    "url": "",
+    "key": "zr4c-3v5m-f80j-41bs-4vwe"
+  }
+}
