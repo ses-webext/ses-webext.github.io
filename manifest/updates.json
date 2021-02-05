@@ -3,6 +3,10 @@
         "{734461fb-6056-4fa4-b080-ef0fb4c4f83a}": {
             "updates": [
 				{
+                    "version": "0.8.3.0",
+                    "update_link": "https://ses-webext.github.io/releases/suls_enhancement_suite-0.8.3.0-an+fx.xpi"
+                },
+				{
                     "version": "0.8.2.8",
                     "update_link": "https://ses-webext.github.io/releases/suls_enhancement_suite-0.8.2.8-an+fx.xpi"
                 },
