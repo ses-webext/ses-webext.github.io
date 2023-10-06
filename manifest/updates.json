@@ -3,6 +3,10 @@
     "{734461fb-6056-4fa4-b080-ef0fb4c4f83a}": {
       "updates": [
         {
+          "version": "1.2.5.7",
+          "update_link": "https://ses-webext.github.io/releases/b7b42963c9534b63960c-1.2.5.7.xpi"
+        },
+        {
           "version": "1.2.5.6",
           "update_link": "https://ses-webext.github.io/releases/b7b42963c9534b63960c-1.2.5.6.xpi"
         },
